@@ -102,7 +102,7 @@ int main(int argc, char *argv[]){
 				case 2:
 					add_elements(list);
 					break;
-        case 3:
+        			case 3:
 					cout << "Do you want to end the program?" << endl;
 					cin >> flag_exit;
 					break;
